@@ -3,7 +3,7 @@
 layout: post
 title: "中文"
 subtitle: 'From Vim to Spacemacs'
-date:  2020-05-31 02:36:26 +0800
+
 author: "pxjolly"
 header-style: text
 tags:
