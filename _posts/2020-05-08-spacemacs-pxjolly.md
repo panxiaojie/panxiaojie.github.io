@@ -8,8 +8,7 @@ tags:
   - Vim
   - Emacs
 ---
-
-添加文章
+潘孝杰
 
 ### Vim-binding
 
