@@ -6,7 +6,7 @@ author: "pxjolly"
 header-style: text
 date:  2020-05-30 02:36:26 +0800
 tags:
-  - Vim
-  - Emacs
+  - pxj
+  - pxjolly
 ---
 潘孝杰的博客
