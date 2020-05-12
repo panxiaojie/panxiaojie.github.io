@@ -9,7 +9,7 @@ tags:
   - Emacs
 ---
 
-我是一个中国人
+娣诲姞鏂囩珷
 
 ### Vim-binding
 
