@@ -3,7 +3,6 @@
 layout: post
 title: "中文"
 subtitle: 'From Vim to Spacemacs'
-
 author: "pxjolly"
 header-style: text
 tags:
