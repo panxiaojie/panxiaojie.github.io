@@ -8,7 +8,7 @@
         "type": "git",
         "url": "https://panxiaojie.github.io"
     },
-    "bugs": "https://panxiaojie.github.io/issues",
+    "bugs": "https://panxiaojie.github.io",
     "devDependencies": {
         "grunt": "^1.1.0",
         "grunt-banner": "~0.2.3",
