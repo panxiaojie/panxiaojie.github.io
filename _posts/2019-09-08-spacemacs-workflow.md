@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "My Spacemacs Workflow"
-subtitle: 'From Vim to Spacemacs'
+title: "以及标题"
+subtitle: '二级变体'
 author: "pxjolly"
 header-style: text
 tags:
