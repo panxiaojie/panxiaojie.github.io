@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "My Spacemacs Workflow"
+title: "中文"
 subtitle: 'From Vim to Spacemacs'
 author: "pxjolly"
 header-style: text
@@ -8,7 +8,7 @@ tags:
   - Vim
   - Emacs
 ---
-潘孝杰
+潘孝杰的博客
 
 ### Vim-binding
 
