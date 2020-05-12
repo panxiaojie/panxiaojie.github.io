@@ -72,7 +72,7 @@ netease_comment: false
 
 # Google Analytics
 ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
+ga_domain: pxjolly.me
 
 
 
@@ -107,7 +107,7 @@ friends: [
     #     href: "http://su.gallery/"
     # },{
         title: "潘孝杰",
-        href: "https://panxiaojie.github.io/"
+        href: "https://panxiaojie.github.io"
     },
  #{
         # title: "Sherry Wu",
